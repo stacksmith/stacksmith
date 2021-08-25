@@ -1,4 +1,4 @@
-Hello, and welcome to my little opinionated island.  If you are easily offended, leave now.
+Hello.
 
 **I am a minimalist** and dislike most things, with a level of passion commensurate with the needless complexity involved.
 
