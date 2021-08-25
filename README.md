@@ -1,8 +1,8 @@
 Hello, and welcome to my little opinionated island.  If you are easily offended, leave now.
 
-I breathe Common Lisp - and assembly when I need more control.  As a language geek, I can work with any, but find most stupid and/or annoying, (except for Forth and Smalltalk).
+**I breathe Common Lisp** - and assembly when I need more control.  As a language geek, I can work with any, but find most stupid and/or annoying, (except for Forth and Smalltalk).
 
-I am a minimalist and dislike most things, with a level of passion commensurate with the needless complexity involved.  I tolerate complexity which is absolutely necessary to accomplish the absolutely-necessary goals.
+**I am a minimalist** and dislike most things, with a level of passion commensurate with the needless complexity involved.  I tolerate complexity which is absolutely necessary to accomplish the absolutely-necessary goals.
 
 I tend to focus on deep rabbitholes having to do with editing of structures, texty things, compilers, and nifty datastructures, especially probabilistic and immutable ones.
 <!--
