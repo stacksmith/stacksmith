@@ -2,7 +2,7 @@ Hello, and welcome to my little opinionated island.  If you are easily offended,
 
 **I am a minimalist** and dislike most things, with a level of passion commensurate with the needless complexity involved.
 
-**I breathe Common Lisp** - and assembly when I need more control.  As a language geek, I can work with any, but find most vulgar, (except for Forth and Smalltalk).
+**I breathe Common Lisp** - and assembly when needed.  As a language geek, I can work with any, but find most vulgar, (except for Forth and Smalltalk).
 
 **I live in deep rabbitholes** formed by structured data in my attempts to write editors, compilers, and nifty datastructures (especially probabilistic and immutable ones).  Occasionally I put on my EE hat and design hardware, often with FPGAs or 6502s.  
 <!--
