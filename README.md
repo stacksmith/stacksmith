@@ -1,4 +1,4 @@
-Hello, and welcome to my little opinionated island.  If you are easily offended, please leave now.
+Hello, and welcome to my little opinionated island.  If you are easily offended, leave now.
 
 I breathe Common Lisp - and assembly when I need more control.  As a language geek, I can work with any, but find most stupid and/or annoying, (except for Forth and Smalltalk).
 
