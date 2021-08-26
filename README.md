@@ -1,7 +1,7 @@
 ```
 Hello.
 I am a minimalist -  and dislike most things, with a level of passion commensurate with the needless complexity.
-I breathe Common Lisp - and assembly when needed.  A language geek, I work with many, but find most vulgar.
+I breathe Common Lisp - and assembly when needed.  As a language geek, I find most vulgar.
 I live in deep rabbitholes - carved by structured data in my attempts to write editors, compilers, and nifty datastructures (especially probabilistic and immutable ones).  Occasionally I put on my EE hat and design hardware, often with FPGAs or 6502s.  
 ```
 <!--
