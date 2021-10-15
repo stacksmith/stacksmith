@@ -4,7 +4,7 @@
 + I am a minimalist - and despise needless complexity.
 + I breathe Common Lisp - and assembly when needed.  As a language geek, I find most vulgar.
 + I live in deep rabbitholes - carved by structured data in my attempts to write editors, compilers, and nifty datastructures (especially probabilistic and immutable ones).  Occasionally I put on my EE hat and design hardware, often with FPGAs or 6502s.  
-+ I need to get github... Why am I here?
++ I need to get off github... Gitlab is almost as evil.  Why am I still here?
 ```
 <!--
 **stacksmith/stacksmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
